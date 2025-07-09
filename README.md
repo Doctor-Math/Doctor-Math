@@ -1,4 +1,6 @@
-<h1 align="center">🌍 Hello World, eu sou o Matheus!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello+World%2C+eu+sou+o+Matheus!" alt="Título animado" />
+</p>
 
 <p align="center">
   <img src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/tokyonight.gif?raw=true" width="400px" alt="banner" />
