@@ -33,9 +33,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico)
 - [Sistema de Escalonamento Logístico](https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git)
 - [Ordenador Universal](https://github.com/Doctor-Math/Ordenador-Universal.git)
 - [Batalha de Pokemons](https://github.com/Doctor-Math/Batalha-de-Pokemons)
+- [Análise Exploratória e Preditiva da Economia Brasileira](https://github.com/gabyxsantos/Economia.git)
 - [Análise dos Acidentes de Trânsito de Belo Horizonte](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte)
 - [PDS I](https://github.com/Doctor-Math/PDS-I)
 - [PDS II](https://github.com/Doctor-Math/PDS-II)
