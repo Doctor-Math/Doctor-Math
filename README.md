@@ -52,7 +52,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| 📦 [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico) | Dashboard com integração via API |
+| 📦 [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico) | Simula pesquisas em árvore balanceada |
 | 🧠 [Análise da Economia Brasileira](https://github.com/gabyxsantos/Economia.git) | Análise exploratória e preditiva de dados macroeconômicos |
 | 🚦 [Acidentes de Trânsito BH](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte) | Estudo geoespacial e temporal de acidentes |
 
