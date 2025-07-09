@@ -1,79 +1,84 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<h1 align="center">🌍 Hello World, eu sou o Matheus!</h1>
+
+<p align="center">
+  <img src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/tokyonight.gif?raw=true" width="400px" alt="banner" />
+</p>
+
+---
+
+### 👨‍🎓 Sobre mim
+
+🎓 Estudante de Ciência de Dados na <strong>Universidade Federal de Minas Gerais (UFMG)</strong>  
+📊 Diretor de Projetos na empresa de dados <strong>Pi Júnior</strong>  
+💡 Apaixonado por contar histórias por meio dos dados desde os 16 anos  
+🌎 Brasileiro, 19 anos, fluente em português, intermediário em inglês  
+📚 Curto história, política, economia, religião e boas conversas!
+
+> "Quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como ferramenta para entender o mundo, a sociedade e a nós mesmos."
+
+---
+
+### 🚀 Tech Stack
+
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas e Frameworks**  
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+**Bibliotecas**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doctor-Math&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-Math&layout=compact&theme=tokyonight"/>
 </div>
 
-<!-- Presentation -->
-<p>
-  Olá 👋! Sou o Matheus, um estudante brasileiro apaixonado pela Ciência de Dados!
-  
-  - 🌱 Atualmente, estou me graduando na Universidade Federal de Minas Gerais (UFMG) <img align="center" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg" width="50" />
+---
 
-  - 🔭 Sou Diretor de Projetos na empresa de dados Pi Junior. <img align="center" alt="html5" src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/logo_pi.png" width="25" />
-  - Desde os 16 anos, sonho em trabalhar com Ciência e Análise de Dados!
-</p>
+### 🧠 Projetos em destaque
 
-<!-- Dropdown -->
+| Projeto | Descrição |
+|--------|-----------|
+| 📦 [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico) | Dashboard com integração via API |
+| 🧠 [Análise da Economia Brasileira](https://github.com/gabyxsantos/Economia.git) | Análise exploratória e preditiva de dados macroeconômicos |
+| 🚦 [Acidentes de Trânsito BH](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte) | Estudo geoespacial e temporal de acidentes |
+
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+<summary>🔎 Ver mais projetos</summary>
 
-  - 💬 Tenho 19 anos e, atualmente, moro no Brasil. Tenho fluência intermediária em inglês e possuo experiência com SQL, Python, Análise de Dados e Visualização de Dados (Excel, Google Sheets e Apps Script).
+- [Sistema de Escalonamento Logístico](https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git)  
+- [Ordenador Universal](https://github.com/Doctor-Math/Ordenador-Universal.git)  
+- [Batalha de Pokémons](https://github.com/Doctor-Math/Batalha-de-Pokemons)  
+- [Fundamentos de Programação](https://github.com/Doctor-Math/Fundamentos-de-Programacao)  
+- [PDS I e II](https://github.com/Doctor-Math/PDS-I)  
+- [Programação Multiplataforma](https://github.com/Doctor-Math/Programacao-Multiplataforma)  
 
-  - ⚡ Meus hobbies favoritos são estudar dados, compilar gráficos, analisar estudos e pesquisas científicas, ler livros históricos, políticos, econômicos e religiosos, e assistir a bons filmes - especialmente franquias clássicas e consagradas. E, claro, nunca nego a oportunidade de me reunir e socializar com meus amigos próximos!
-  - Na minha opinião, quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como uma ferramenta que nos fornece uma compreensão ampla do mundo em que vivemos. Dados, quando bem usados, têm o poder fantástico de contar a verdadeira história por trás do universo, da sociedade humana e de nós mesmos, como indivíduos.
 </details>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussoares77_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
+---
 
-<!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-Math&show_icons=true&theme=nord)
+### 🌐 Conecte-se comigo
 
-<!-- Portfolio -->
-## Portfolio:
-- [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico)
-- [Sistema de Escalonamento Logístico](https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git)
-- [Ordenador Universal](https://github.com/Doctor-Math/Ordenador-Universal.git)
-- [Batalha de Pokemons](https://github.com/Doctor-Math/Batalha-de-Pokemons)
-- [Análise Exploratória e Preditiva da Economia Brasileira](https://github.com/gabyxsantos/Economia.git)
-- [Análise dos Acidentes de Trânsito de Belo Horizonte](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte)
-- [PDS I](https://github.com/Doctor-Math/PDS-I)
-- [PDS II](https://github.com/Doctor-Math/PDS-II)
-- [Fundamentos de Programção](https://github.com/Doctor-Math/Fundamentos-de-Programacao)
-- [Programação Multiplataforma](https://github.com/Doctor-Math/Programacao-Multiplataforma)
-  
-In update...
+[![Instagram](https://img.shields.io/badge/@matheussoares77__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussoares77_/)
+[![LinkedIn](https://img.shields.io/badge/Matheus_Soares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/tokyonight.gif?raw=true" alt="Imagem">
+<!-- Contador de visitantes -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-Math.Doctor-Math" alt="visitantes" />
 </p>
 
-## 🔥 Skills
-<!-- Skills: Linguagens de Programação -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  </div>
-  
-  <!-- Skills: Ferramentas & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworkss</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Sheets" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg">
-  </div>
-  
-  <!-- Skills: Bibliotecas -->
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </div>
+---
+
