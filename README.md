@@ -76,11 +76,13 @@
 
 [![Instagram](https://img.shields.io/badge/@matheussoares77__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussoares77_/)
 [![LinkedIn](https://img.shields.io/badge/Matheus_Soares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
+[![Kaggle](https://img.shields.io/badge/Matheus_Freitas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/matheussoaresfreitas)
 
 <!-- Contador de visitantes -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-Math.Doctor-Math" alt="visitantes" />
+  <img src="https://api.countapi.xyz/hit/doctor-math/visits?style=flat-square" alt="Contador de visitas">
 </p>
+
 
 ---
 
