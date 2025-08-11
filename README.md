@@ -78,11 +78,5 @@
 [![LinkedIn](https://img.shields.io/badge/Matheus_Soares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
 [![Kaggle](https://img.shields.io/badge/Matheus_Freitas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/matheussoaresfreitas)
 
-<!-- Contador de visitantes -->
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/doctor-math/visits?style=flat-square" alt="Contador de visitas">
-</p>
-
-
 ---
 
