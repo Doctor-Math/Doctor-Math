@@ -13,7 +13,7 @@
 🎓 Estudante de Ciência de Dados na <strong>Universidade Federal de Minas Gerais (UFMG)</strong>  
 📊 Diretor de Projetos na empresa de dados <strong>Pi Júnior</strong>  
 💡 Apaixonado por contar histórias por meio dos dados desde os 16 anos  
-🌎 Brasileiro, 19 anos, fluente em português, intermediário em inglês  
+🌎 Brasileiro, 20 anos, intermediário (B2) em inglês  
 📚 Curto história, política, economia, religião e boas conversas!
 
 > "Quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como ferramenta para entender o mundo, a sociedade e a nós mesmos."
