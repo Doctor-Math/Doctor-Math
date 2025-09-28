@@ -64,9 +64,10 @@
 - [Sistema de Escalonamento Logístico](https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git)  
 - [Ordenador Universal](https://github.com/Doctor-Math/Ordenador-Universal.git)  
 - [Batalha de Pokémons](https://github.com/Doctor-Math/Batalha-de-Pokemons)  
-- [Fundamentos de Programação](https://github.com/Doctor-Math/Fundamentos-de-Programacao)  
-- [PDS I e II](https://github.com/Doctor-Math/PDS-I)  
-- [Programação Multiplataforma](https://github.com/Doctor-Math/Programacao-Multiplataforma)  
+- [Exercícios de programação realizados em Fundamentos de Programação](https://github.com/Doctor-Math/Fundamentos-de-Programacao)  
+- [Exercícios de programação realizados em PDS I](https://github.com/Doctor-Math/PDS-I)
+- [Exercícios de programação realizados em PDS II](https://github.com/Doctor-Math/PDS-II) 
+- [Exercícios de programação realizados em Programação Multiplataforma](https://github.com/Doctor-Math/Programacao-Multiplataforma)  
 
 </details>
 
