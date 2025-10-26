@@ -56,14 +56,15 @@
 |--------|-----------|
 | 📦 [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico) | Simula pesquisas em árvore balanceada |
 | 🧠 [Análise da Economia Brasileira](https://github.com/gabyxsantos/Economia.git) | Análise exploratória e preditiva de dados macroeconômicos |
-| 🚦 [Acidentes de Trânsito BH](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte) | Estudo geoespacial e temporal de acidentes |
+| 🛣️ [Otimização de Ruas em Grafo](https://github.com/Doctor-Math/TP1-Algoritmos-I) | Encontra caminhos mínimos e arestas críticas em grafos |
 
 <details>
 <summary>🔎 Ver mais projetos</summary>
 
 - [Sistema de Escalonamento Logístico](https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git)  
 - [Ordenador Universal](https://github.com/Doctor-Math/Ordenador-Universal.git)  
-- [Batalha de Pokémons](https://github.com/Doctor-Math/Batalha-de-Pokemons)  
+- [Batalha de Pokémons](https://github.com/Doctor-Math/Batalha-de-Pokemons)
+- [Acidentes de Trânsito BH](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte)
 - [Exercícios de programação realizados em Fundamentos de Programação](https://github.com/Doctor-Math/Fundamentos-de-Programacao)  
 - [Exercícios de programação realizados em PDS I](https://github.com/Doctor-Math/PDS-I)
 - [Exercícios de programação realizados em PDS II](https://github.com/Doctor-Math/PDS-II) 
