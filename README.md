@@ -1,93 +1,101 @@
+<!-- BANNER FUTURISTA -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello+World%2C+eu+sou+o+Matheus!" alt="Título animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=800&color=0AFFEF&center=true&vCenter=true&width=900&lines=MATHEUS+SOARES;Ciência+de+Dados+%E2%9A%A1+Exploração+de+Padrões;Tecnologia%2C+Estatística+e+Modelos+Complexos;Bem-vindo+ao+meu+repositório!" />
 </p>
 
+<br>
+
+<!-- BORDA HOLOGRÁFICA -->
 <p align="center">
-  <img src="https://github.com/Doctor-Math/Doctor-Math/blob/DoctorMath/tokyonight.gif?raw=true" width="400px" alt="banner" />
+<kbd>
+  <img width="800" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</kbd>
 </p>
 
----
-
-### 👨‍🎓 Sobre mim
-
-🎓 Estudante de Ciência de Dados na <strong>Universidade Federal de Minas Gerais (UFMG)</strong>  
-📊 Diretor de Projetos na empresa de dados <strong>Pi Júnior</strong>  
-💡 Apaixonado por contar histórias por meio dos dados desde os 16 anos  
-🌎 Brasileiro, 20 anos, intermediário (B2) em inglês  
-📚 Curto história, política, economia, religião e boas conversas!
-
-> "Quanto mais conhecimento adquirimos, mais eficiente a Ciência de Dados é como ferramenta para entender o mundo, a sociedade e a nós mesmos."
+<br>
 
 ---
 
-### 🚀 Tech Stack
+# 👾 **Sobre mim**
+Prazer! Atualmente, sou **estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG)** e **Diretor de Projetos na Pi Júnior**, onde lidero análises, modelos e soluções que transformam incertezas em decisões.
 
-**Linguagens**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+Sou **brasileiro, 20 anos**, com inglês **intermediário (B2)**, e gosto de expandir o pensamento através de temas como **história, política, economia, religião** e boas conversas que iluminam o que não vemos.
 
-**Ferramentas e Frameworks**  
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Busco entender fenômenos, prever comportamentos e traduzir o complexo em algo que importe.
 
 
-**Bibliotecas**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+🧠 **Áreas de interesse**  
+- Ciência de Dados e Machine Learning  
+- Estatística, Probabilidade e Modelagem  
+- Visualização de Dados  
+- Engenharia de Dados  
 
 ---
 
-### 📊 GitHub Stats
-
+# ⚡ **Tecnologias**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doctor-Math&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-Math&layout=compact&theme=tokyonight"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
 </div>
 
 ---
 
-### 🧠 Projetos em destaque
+# 🚀 **Projetos em destaque**
+<p align="center">
 
-| Projeto | Descrição |
-|--------|-----------|
-| 📦 [Consultas ao Sistema Logístico](https://github.com/Doctor-Math/Consultas-ao-Sistema-Logistico) | Simula pesquisas em árvore balanceada |
-| 🧠 [Análise da Economia Brasileira](https://github.com/gabyxsantos/Economia.git) | Análise exploratória e preditiva de dados macroeconômicos |
-| 🛣️ [Otimização de Ruas em Grafo](https://github.com/Doctor-Math/TP1-Algoritmos-I) | Encontra caminhos mínimos e arestas críticas em grafos |
+  <!-- Sistema de Escalonamento Logístico -->
+  <a href="https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Sistema-de-Escalonamento-Logistico&theme=tokyonight&border_color=00FFE5" />
+  </a>
 
-<details>
-<summary>🔎 Ver mais projetos</summary>
+  <!-- Batalha de Pokémons -->
+  <a href="https://github.com/Doctor-Math/Batalha-de-Pokemons">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Batalha-de-Pokemons&theme=tokyonight&border_color=00FFE5" />
+  </a>
 
-- [Sistema de Escalonamento Logístico](https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git)  
-- [Ordenador Universal](https://github.com/Doctor-Math/Ordenador-Universal.git)  
-- [Batalha de Pokémons](https://github.com/Doctor-Math/Batalha-de-Pokemons)
-- [Acidentes de Trânsito BH](https://github.com/Doctor-Math/Analise-dos-Acidentes-de-Transito-de-Belo-Horizonte)
-- [Exercícios de programação realizados em Fundamentos de Programação](https://github.com/Doctor-Math/Fundamentos-de-Programacao)  
-- [Exercícios de programação realizados em PDS I](https://github.com/Doctor-Math/PDS-I)
-- [Exercícios de programação realizados em PDS II](https://github.com/Doctor-Math/PDS-II) 
-- [Exercícios de programação realizados em Programação Multiplataforma](https://github.com/Doctor-Math/Programacao-Multiplataforma)  
+  <!-- Análise Exploratória e Preditiva da Economia Brasileira -->
+  <a href="https://github.com/Doctor-Math/Analise-Exploratoria-e-Preditiva-da-Economia-Brasileira.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Analise-Exploratoria-e-Preditiva-da-Economia-Brasileira&theme=tokyonight&border_color=00FFE5" />
+  </a>
 
-</details>
+ 
+  <!-- Programação Multiplataforma -->
+  <a href="https://github.com/Doctor-Math/Programacao-Multiplataforma">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Programacao-Multiplataforma&theme=tokyonight&border_color=00FFE5" />
+  </a>
+
+</p>
+
+---
+
+# 🌌 Estatísticas do GitHub
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Doctor-Math&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFF0&icon_color=00FFF0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-Math&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFF0" />
+
+</div>
 
 ---
 
-### 🌐 Conecte-se comigo
-
-[![Instagram](https://img.shields.io/badge/@matheussoares77__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussoares77_/)
-[![LinkedIn](https://img.shields.io/badge/Matheus_Soares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-7b89a4233/)
-[![Kaggle](https://img.shields.io/badge/Matheus_Freitas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/matheussoaresfreitas)
+# 🛰️ Contato
+<div align="center">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0affef?style=for-the-badge&logo=gmail&logoColor=0d0d0d" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0affef?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" />
+  </a>
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=800&color=00FFE5&center=true&vCenter=true&width=600&lines=Sistema+Operacional%3A+Linux;Carregando+Modelos+Estat%C3%ADsticos...;Analisando+Padr%C3%B5es...;Reconstruindo+o+Futuro..." />
+</p>
 
