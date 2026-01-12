@@ -17,7 +17,7 @@
 ---
 
 # 👾 **Sobre mim**
-Prazer! Atualmente, sou **estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG)** e **Diretor de Projetos na Pi Júnior**, onde lidero análises, modelos e soluções que transformam incertezas em decisões.
+Prazer! Atualmente, sou **estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG)**. Atuei como **Diretor de Projetos na Pi Júnior**, onde liderei análises, modelos e soluções que transformam incertezas em decisões.
 
 Sou **brasileiro, 20 anos**, com inglês **intermediário (B2)**, e gosto de expandir o pensamento através de temas como **história, política, economia, religião** e boas conversas que iluminam o que não vemos.
 
@@ -63,11 +63,6 @@ Busco entender fenômenos, prever comportamentos e traduzir o complexo em algo q
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Analise-Exploratoria-e-Preditiva-da-Economia-Brasileira&theme=tokyonight&border_color=00FFE5" />
   </a>
 
- 
-  <!-- Programação Multiplataforma -->
-  <a href="https://github.com/Doctor-Math/Programacao-Multiplataforma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Programacao-Multiplataforma&theme=tokyonight&border_color=00FFE5" />
-  </a>
 
 </p>
 
