@@ -45,39 +45,6 @@ Busco entender fenômenos, prever comportamentos e traduzir o complexo em algo q
 
 ---
 
-# 🚀 **Projetos em destaque**
-<p align="center">
-
-  <!-- Sistema de Escalonamento Logístico -->
-  <a href="https://github.com/Doctor-Math/Sistema-de-Escalonamento-Logistico.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Sistema-de-Escalonamento-Logistico&theme=tokyonight&border_color=00FFE5" />
-  </a>
-
-  <!-- Batalha de Pokémons -->
-  <a href="https://github.com/Doctor-Math/Batalha-de-Pokemons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Batalha-de-Pokemons&theme=tokyonight&border_color=00FFE5" />
-  </a>
-
-  <!-- Análise Exploratória e Preditiva da Economia Brasileira -->
-  <a href="https://github.com/Doctor-Math/Analise-Exploratoria-e-Preditiva-da-Economia-Brasileira.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doctor-Math&repo=Analise-Exploratoria-e-Preditiva-da-Economia-Brasileira&theme=tokyonight&border_color=00FFE5" />
-  </a>
-
-
-</p>
-
----
-
-# 🌌 Estatísticas do GitHub
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Doctor-Math&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFF0&icon_color=00FFF0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-Math&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFF0" />
-
-</div>
-
----
-
 # 🛰️ Contato
 <div align="center">
   <a href="mailto:seuemail@gmail.com">
