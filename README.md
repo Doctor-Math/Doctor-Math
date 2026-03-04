@@ -19,7 +19,7 @@
 # 👾 **Sobre mim**
 Prazer! Atualmente, sou **estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG)**. Atuei como **Diretor de Projetos na Pi Júnior**, onde liderei análises, modelos e soluções que transformam incertezas em decisões.
 
-Sou **brasileiro, 20 anos**, com inglês **intermediário (B2)**, e gosto de expandir o pensamento através de temas como **história, política, economia, religião** e boas conversas que iluminam o que não vemos.
+Sou **brasileiro, 20 anos**, com inglês **intermediário (B2)**, e gosto de expandir o pensamento através de temas como **história, política, economia** e boas conversas que iluminam o que não vemos.
 
 Busco entender fenômenos, prever comportamentos e traduzir o complexo em algo que importe.
 
