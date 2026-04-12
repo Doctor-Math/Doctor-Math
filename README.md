@@ -15,7 +15,7 @@
 ---
 
 # 👾 **About Me**
-Hello! I am a **Data Science student at the Federal University of Minas Gerais (UFMG)** and a **Researcher at the Speed Lab (associated with CI-IA)**, where I focus on **Deep Learning** and its applications.
+Hello! I am a **Data Science student at the Federal University of Minas Gerais (UFMG)** and a **Researcher at the SPEED Lab (associated with CI-IA)**, where I focus on **Deep Learning** and its applications.
 
 Previously, I served as **Project Director at Pi Júnior**, where I led analytics, modeling, and data-driven solutions to transform uncertainty into strategic decisions. My technical foundation started with a **Technical Degree in Informatics (POLIMIG)**, where I developed my first skills in software development.
 
