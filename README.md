@@ -24,7 +24,7 @@ I am a **20-year-old Brazilian** developer with **B2 English proficiency**. I’
 ---
 
 # 🔬 **Current Research & Interests**
-At **Speed Lab**, I am currently deepening my knowledge in:
+At **SPEED Lab**, I am currently deepening my knowledge in:
 * 🤖 **Deep Learning:** Exploring neural architectures and complex modeling.
 * 🏥 **Interdisciplinary Data:** Applying DS to Health.
 * 📈 **Statistics & Probability:** The core of everything I build.
