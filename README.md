@@ -17,7 +17,7 @@
 # 👾 **About Me**
 Hello! I am a **Data Science student at the Federal University of Minas Gerais (UFMG)** and a **Researcher at the [SPEED Lab](https://dcc.ufmg.br/speed/) (associated with [CI-IA](https://ciia-saude.dcc.ufmg.br/))**, where I focus on **Deep Learning** and its applications.
 
-Previously, I served as **Project Director at Pi Júnior**, where I led analytics, modeling, and data-driven solutions to transform uncertainty into strategic decisions. My technical foundation started with a **Technical Degree in Informatics (POLIMIG)**, where I developed my first skills in software development.
+Previously, I served as **Project Director at [Pi Júnior](https://www.pijunior.com.br/)**, where I led analytics, modeling, and data-driven solutions to transform uncertainty into strategic decisions. My technical foundation started with a **Technical Degree in Informatics ([POLIMIG](https://polimig.com.br/))**, where I developed my first skills in software development.
 
 I am a **20-year-old Brazilian** developer with **B2 English proficiency**. I’m passionate about expanding my perspective through **History, Politics, and Economics**—always looking for conversations that shed light on the unseen.
 
