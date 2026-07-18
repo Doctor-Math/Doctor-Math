@@ -1,16 +1,19 @@
 name: Generate Datas
 
 on:
-  schedule: # Executa automaticamente a cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
-  push: { branches: ["DoctorMath"] }
+  workflow_dispatch:
+  push: 
+    branches: ["DoctorMath"] 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: DoctorMath 
 
       - uses: platane/snk@v3
         id: snake-gif
