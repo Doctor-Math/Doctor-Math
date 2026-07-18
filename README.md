@@ -5,9 +5,7 @@
 <br>
 
 <p align="center">
-<kbd>
-  <img width="800" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</kbd>
+  <img src="https://raw.githubusercontent.com/Doctor-Math/Doctor-Math/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <br>
