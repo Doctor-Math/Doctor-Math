@@ -11,7 +11,6 @@
 <br>
 
 ---
-https://www.efset.org/pt/
 # 👾 **About Me**
 Hello! I am a **Data Science student at the Federal University of Minas Gerais (UFMG)** and a **Researcher at the [SPEED Lab](https://dcc.ufmg.br/speed/) (associated with [CI-IA](https://ciia-saude.dcc.ufmg.br/))**, where I focus on **Deep Learning** and its applications.
 
