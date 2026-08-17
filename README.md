@@ -16,7 +16,7 @@ Hello! I am a **Data Science student at the Federal University of Minas Gerais (
 
 Previously, I served as **Project Director at [Pi Júnior](https://www.pijunior.com.br/)**, where I led analytics, modeling, and data-driven solutions to transform uncertainty into strategic decisions. My technical foundation started with a **Technical Degree in Informatics ([POLIMIG](https://polimig.com.br/))**, where I developed my first skills in software development.
 
-I am a **21-year-old Brazilian** Data Scientist with **C1 English proficiency (CEFR)** according to [BeConfident](https://beconfident.app/) and [EF SET](https://www.efset.org/pt/). I’m passionate about expanding my perspective through **History, Politics, and Economics**—always looking for conversations that shed light on the unseen.
+I am a **21-year-old Brazilian** Data Scientist student with **C1 English proficiency (CEFR)** according to [BeConfident](https://beconfident.app/) and [EF SET](https://www.efset.org/pt/). I’m passionate about expanding my perspective through **History, Politics, and Economics**—always looking for conversations that shed light on the unseen.
 
 ---
 
