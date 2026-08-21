@@ -18,6 +18,8 @@ Previously, I served as **Project Director at [Pi Júnior](https://www.pijunior.
 
 I am a **21-year-old Brazilian** Data Scientist student with **C1 English proficiency (CEFR)** according to [BeConfident](https://beconfident.app/) and [EF SET](https://www.efset.org/pt/). I’m passionate about expanding my perspective through **History, Politics, and Economics**—always looking for conversations that shed light on the unseen.
 
+Recently, I co-authored a book titled ["Deciphering Data: A Practical Data Science Guide"](https://a.co/d/0eZZJ4ix) with two colleagues, in which we share our experiences and discuss the opportunities that academia and the field offer.
+
 ---
 
 # 🔬 **Current Research & Interests**
