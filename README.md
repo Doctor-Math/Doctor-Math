@@ -56,4 +56,7 @@ At **SPEED Lab**, I am currently deepening my knowledge in:
   <a href="#">
     <img src="https://img.shields.io/badge/Research-Speed%20Lab%20%7C%20CI--IA-blueviolet?style=for-the-badge" />
   </a>
+  <a href="https://leetcode.com/u/Matheus_21/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
