@@ -23,10 +23,9 @@ Recently, I co-authored a book titled ["Deciphering Data: A Practical Data Scien
 ---
 
 # 🔬 **Current Research & Interests**
-At **SPEED Lab**, I am currently deepening my knowledge in:
-* 🤖 **Deep Learning:** Exploring neural architectures and complex modeling.
-* 🏥 **Interdisciplinary Data:** Applying DS to Health.
-* 📈 **Statistics & Probability:** The core of everything I build.
+At **SPEED Lab**, I am currently working in two projects:
+- MRI Project: To detect anomalies in brain magnetic resonance using deep learning models, in partnership with Hermes Pardini.
+- HCC Project: A collaboration with Hospital das Clínicas (UFMG) to predict outcomes for patients with hepatocellular carcinoma.
 
 ---
 
