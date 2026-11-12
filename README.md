@@ -26,6 +26,7 @@ Recently, I co-authored a book titled ["Deciphering Data: A Practical Data Scien
 At **SPEED Lab**, I am currently working in two projects:
 - MRI Project: To detect anomalies in brain magnetic resonance using deep learning models, in partnership with Hermes Pardini.
 - HCC Project: A collaboration with Hospital das Clínicas (UFMG) to predict outcomes for patients with hepatocellular carcinoma.
+- Exam Logistics Optimization Project: Data analysis and pattern recognition on tabular patient datasets to identify operational bottlenecks, support data-driven logistics policies, and streamline medical exam workflows.
 
 ---
 
